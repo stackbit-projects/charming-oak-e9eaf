@@ -32,7 +32,7 @@ sections:
       - title: 'UI/UX '
         image: /images/a7dcd07708a19d50a0623b13e564db46.webp
         actions: []
-      - title: 'UI '
+      - title: UI / UX
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
