@@ -29,8 +29,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: UI / UX
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >+
           ## Lorem ipsum
 
