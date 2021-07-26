@@ -32,6 +32,21 @@ sections:
       - title: 'UI/UX '
         image: /images/a7dcd07708a19d50a0623b13e564db46.webp
         actions: []
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
       - title: Product Design
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
