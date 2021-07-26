@@ -7,7 +7,8 @@ sections:
     title: 'Hi, I''m Sameen.'
     content: >
       An UI/UX designer who cares about the looks as well as the science behind
-      it
+      it. I can work my magic on any Graphics related work as well, from logos,
+      design, content to packaging, social media, anything you name it. 
     actions:
       - label: Let's talk
         url: /contact
