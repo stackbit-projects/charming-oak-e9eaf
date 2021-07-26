@@ -30,10 +30,6 @@ sections:
     is_numbered: true
     grid_items:
       - title: 'UI/UX '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         image: /images/a7dcd07708a19d50a0623b13e564db46.webp
       - title: Service Title
         content: >-
